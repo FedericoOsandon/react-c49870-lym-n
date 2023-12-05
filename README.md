@@ -19,16 +19,27 @@ deploy
         // 7- no debe haber variables o estados declarados nunca usados
         // 8- Eliminar importaciones declaradas nunca usadas
         // 9- diseño modular- cada función - en sus archivos bien separadas las responsabilidades
+
 documentar - README: 
     // ejemplos de sintaxis del markdown
     https://dillinger.io/
-    DEMO: https://pablo-coca-react-project.netlify.app/
+    DEMO1 Pablo: https://pablo-coca-react-project.netlify.app/
+    DEMO2 Bárbara: https://pre-entrega1-correa-kftynm6n6-barbaras-projects-f499d27b.vercel.app/
 
 | Plugin | README |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
+| firebase 10.7.0 | Usamos firestore como base de datos |
+| react router dom 18.2.0 | agregar enrutador para app |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+
+
+
+// tiene que tener la doc : 
+    - librerías usadas con la versión y breve descripción
+
+// entrega del deploy en cuenta del gif
+// van a entregar el link repositorio
